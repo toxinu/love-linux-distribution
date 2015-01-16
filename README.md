@@ -5,8 +5,8 @@ This project allows you to distribute your LÖVE (0.9.1, more ?) game for Linux.
 ## Instructions
 
 1. Download this repository (as .zip or git clone)
-2. Edit "build.sh" script to add your "GAME", "DESC" and "OUTPUT" variables
-3. Run "./build.sh"
+2. Edit `build.sh` script to add your `GAME`, `DESC` and `OUTPUT` variables
+3. Run `./build.sh`
 4. Enjoy
 
 ## Supported distros
