@@ -18,8 +18,10 @@ Any distro with glibc 2.15 or later should work, but these are the ones I will s
 * Linux Mint 13 and later
 * openSUSE 13.1 and later
 
+
 * Ubuntu 14.04 (verified)
 * Ubuntu 14.10 (verified)
+
 
 Currently I will not try to support older systems, or systems with older versions of glibc, simply because the oldest Linux distro that LÖVE officially supports is Ubuntu 12.04. Others are welcome to fork and submit pull requests if they feel they can do this, however.
 
