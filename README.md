@@ -18,6 +18,7 @@ Distro        | State
 Ubuntu 12.04  | Ok
 Ubuntu 14.04  | Verified
 Ubuntu 14.10  | Verified
+Archlinux     | Verified
 Fedora 20     | Ok
 Linux Mint 13 | Ok
 openSUSE 13.1 | Ok
