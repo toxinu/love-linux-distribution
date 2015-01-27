@@ -13,10 +13,15 @@ This project allows you to distribute your LÖVE (0.9.1, more ?) game for Linux.
 
 Any distro with glibc 2.15 or later should work, but these are the ones I will support:
 
-* Ubuntu 12.04 and later
-* Fedora 20 and later
-* Linux Mint 13 and later
-* openSUSE 13.1 and later
+Distro        | State
+--------------|---------
+Ubuntu 12.04  | Ok
+Ubuntu 14.04  | Verified
+Ubuntu 14.10  | Verified
+Archlinux     | Verified
+Fedora 20     | Ok
+Linux Mint 13 | Ok
+openSUSE 13.1 | Ok
 
 Currently I will not try to support older systems, or systems with older versions of glibc, simply because the oldest Linux distro that LÖVE officially supports is Ubuntu 12.04. Others are welcome to fork and submit pull requests if they feel they can do this, however.
 
