@@ -5,7 +5,7 @@ set -u
 GAME=example
 DESC="My game ! (v0.0.1)"
 OUTPUT=example.run
-LOVE_VERSION="9.1"
+LOVE_VERSION="0.9.1"
 MAKESELF_OPTS="--nomd5 --nocrc --nocomp"
 ##########################################################
 
